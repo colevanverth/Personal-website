@@ -1,0 +1,30 @@
+* {
+  color: $neutral-50;
+  font-family: $font;
+  font-size: 16px;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  line-height: 1.5;
+}
+
+body {
+  background: $neutral-150;
+  padding: 0 128px;
+}
+
+h1 {
+  font-size: 23.04px;
+  font-weight: normal;
+}
+
+h2 {
+  font-size: 19.2px;
+  font-weight: normal;
+}
+
+img {
+  object-fit: cover;
+  filter: grayscale(100%);
+}
