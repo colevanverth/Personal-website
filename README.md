@@ -1,6 +1,6 @@
 ## Cole's website
 
-A portfolio/mini resume. Built with vanilla HTML and SASS. No JavaScript. Styled using `Prettier` defaults.
+My portfolio/mini resume. Built with vanilla HTML and SASS. No JavaScript. Styled using `Prettier` defaults.
 
 ### Setup
 
