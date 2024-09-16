@@ -8,6 +8,7 @@
   padding: 0;
   overflow-x: hidden;
   line-height: 1.5;
+  -webkit-text-size-adjust: 100%;
 }
 
 body {
@@ -99,8 +100,7 @@ nav a:hover {
   color: #bbbbbb;
 }
 nav a:hover img {
-  filter: brightness(0) saturate(100%) invert(84%) sepia(11%) saturate(14%)
-    hue-rotate(314deg) brightness(87%) contrast(94%);
+  filter: brightness(0) saturate(100%) invert(84%) sepia(11%) saturate(14%) hue-rotate(314deg) brightness(87%) contrast(94%);
 }
 
 .about {
