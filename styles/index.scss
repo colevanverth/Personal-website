@@ -104,6 +104,9 @@ nav {
   .about {
     gap: 64px;
   }
+  .hero {
+    height: calc((100vw - (4 * 64px)) / 3);
+  }
   .experience {
     gap: 64px;
     img {
@@ -112,6 +115,7 @@ nav {
   }
   .japan {
     height: calc((100vw - (4 * 64px)) / 3);
+    left: calc(((100vw - (4 * 64px)) / 3) + 64px * 2);
   }
 }
 

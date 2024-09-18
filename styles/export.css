@@ -135,6 +135,9 @@ nav a:hover img {
   .about {
     gap: 64px;
   }
+  .hero {
+    height: calc((100vw - 256px) / 3);
+  }
   .experience {
     gap: 64px;
   }
@@ -143,6 +146,7 @@ nav a:hover img {
   }
   .japan {
     height: calc((100vw - 256px) / 3);
+    left: calc((100vw - 256px) / 3 + 128px);
   }
 }
 @media (max-width: 1500px) {
